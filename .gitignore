@@ -13,9 +13,8 @@ docs/
 # Dotenv file
 .env
 
-.broadcast/
+broadcast/
 lib/
 
 
-.DS_Store
-zkout/
+
